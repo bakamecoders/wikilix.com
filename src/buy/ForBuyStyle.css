@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,600;0,700;1,400;1,500;1,600;1,700&family=Raleway:wght@300&display=swap');
+
+.for-buy-container{
+    background-color: rgb(255, 255, 255);
+    min-height: 100vh;
+}
+
+
+.for-sell-flex{
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.undeline_img{
+    width: auto;
+    margin-top: -15px;
+    margin-bottom: 30px;
+}
+
+.for-sell-items{
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.for-sell-title{
+    font-family: Bai Jamjuree;
+}
+
+.for-sell-flex
+{
+    float: right;
+}
+
+.for-sale-icon{
+    width: 30px;
+}
